@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm learning to program <br>⚡ 
+🔭 I'm learning to program <br>⚡ knowledge
 
 
 ## 🌐 Socials:
