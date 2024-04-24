@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Tentando ser programador <br>⚡ Estudando front - end
+🔭 I'm learning to program <br>⚡ 
 
 
 ## 🌐 Socials:
