@@ -1,4 +1,5 @@
 # 💻  About Me:
+👨🏽‍💻 learning system analysis - (MLS)
 🔭 I'm learning to program <br>⚡ knowledge
 
 # 💻 Tech Stack:
